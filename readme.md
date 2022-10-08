@@ -1,5 +1,8 @@
 # Axit
-- Адаптивный сайт [(смотреть тут)](https://drabovich.github.io/Project-2-Axit/)
-- Есть меню бургер
-- [документация Git](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+- Сделан через 1.5 месяца обучения (html, css)
+- Использовал впервые препроцессор SASS
+- Плавные переходы
+- На чистом CSS написал табы!
+- Первые шаги в JS (написан бургер-меню и простейший круговой слайдер)
+- Использовал flex-конструкции
+- Выполнен адаптив под планшеты и mobile [(смотреть тут)](https://drabovich.github.io/Project-2-Axit/)
